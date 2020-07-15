@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, what's up? 👋
 
+- :dna: Bioinformatician | Data Engineer at @bioinfocpom
+- :man_teacher: Assistant Professor at Faculdade Barretos
+- :books: I'm currently learning about nanostring and next-generation sequencing data analysis
+- 📫 How to reach me: leo.biscassi@gmail.com | https://www.linkedin.com/in/leobiscassi/
 <!--
 **leobiscassi/leobiscassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
