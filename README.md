@@ -1,6 +1,8 @@
 ### Hi there, what's up? 👋
 
 :octocat: Data Engineer at Minerva Foods <br />
-:man_teacher: Assistant Professor at Faculdade Barretos <br />
-:books: I'm currently learning about azure data services, data governance and catalog. <br />
-📫 How to reach me: leo.biscassi@gmail.com | https://www.linkedin.com/in/leobiscassi/ <br />
+👨‍🏫 Post-Graduate Professor at Instituto Mauá de Tecnolocia <br />
+👨‍🏫 Post-Graduate Professor at Centro Universitário Senac <br />
+👨‍🏫 Assistant Professor at Faculdade Barretos <br />
+:books: Passionate about data architecture and engineering, always learning something new <br />
+📫 How to reach me: contato@leobiscassi.com | https://www.linkedin.com/in/leobiscassi/ <br />
